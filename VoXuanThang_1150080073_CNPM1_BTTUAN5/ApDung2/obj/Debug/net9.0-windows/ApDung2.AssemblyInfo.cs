@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("ApDung2")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+e600747afb75b1b3ac3df290b4624cf5e73fa42f")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+02d1c918bd4af620fc044af2618da77edf53ceb0")]
 [assembly: System.Reflection.AssemblyProductAttribute("ApDung2")]
 [assembly: System.Reflection.AssemblyTitleAttribute("ApDung2")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
